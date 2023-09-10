@@ -4,7 +4,7 @@ A simple To-Do web application built with Node.js, Express, and MongoDB. This ap
 
 Features
 
-.User Authentication
+.User Authentication using bcrypt
  .Sign up with email and password
  .Sign in with email and password
  .Change password
