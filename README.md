@@ -5,23 +5,23 @@ A simple To-Do web application built with Node.js, Express, and MongoDB. This ap
 Features
 
 User Authentication 
- Sign up with email and password
- Sign in with email and password
- Change password
- Reset forgotten password via email
+- Sign up with email and password
+- Sign in with email and password
+- Change password
+- Reset forgotten password via email
 
 To-Do Operations
- Create a new task
- View all tasks
- Update task details
- Mark tasks as completed
- Delete tasks
+- Create a new task
+- View all tasks
+- Update task details
+- Mark tasks as completed
+- Delete tasks
 
 Prerequisites
 Before you begin, ensure you have met the following requirements:
 
- Node.js and npm installed
- MongoDB instance set up
+ - Node.js and npm installed
+ - MongoDB instance set up
 
 
 
