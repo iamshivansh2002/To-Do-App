@@ -76,6 +76,8 @@ JWT_SECRET=yourSecretKey
 
 4. Start Server
 npm run dev
+
+---
 ## 🔑 API Overview
 
 - **Auth**
